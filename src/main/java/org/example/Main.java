@@ -8,4 +8,7 @@ public class Main {
     public void method1(){
         System.out.println("lawrence is software Tester");
     }
+    public void method2(){
+        System.out.println("lawrence is software Tester");
+    }
 }
