@@ -5,4 +5,7 @@ public class test {
         System.out.println("lawrence");
     }
     //Method created
+    public void methos(){
+        System.out.println("dsd");
+    }
 }
