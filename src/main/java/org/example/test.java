@@ -8,4 +8,6 @@ public class test {
     public void methos(){
         System.out.println("dsd");
     }
+    public void method(){
+    }
 }
